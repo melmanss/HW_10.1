@@ -1,4 +1,6 @@
 import java.util.Scanner;
+
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введіть ціле число для обчислення квадрату: ");
@@ -60,3 +62,4 @@ import java.util.Scanner;
             System.out.println(text);
         }
     }
+}
